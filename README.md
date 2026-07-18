@@ -1,5 +1,5 @@
 ## lazyIhsan
-────────
+
 Rust · C++ · Julia
 EndeavourOS · niri · LazyVim
 
