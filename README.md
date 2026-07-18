@@ -1,16 +1,14 @@
-## Hi there 👋
+## lazyIhsan
 
-<!--
-**lazyIhsan/lazyIhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust · C++ · Julia
 
-Here are some ideas to get you started:
+EndeavourOS · niri · LazyVim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently building  — a small
+terminal system monitor in C++20. CPU/memory via /proc, temperature via
+hwmon, rendered with Unicode bars over a transparent kitty terminal.
+
+  CPU  [███████░░░░░░░░░░░░░]  36.4%
+  MEM  [██████████░░░░░░░░░░]  51.2%  (32.1 / 62.4 GiB)
+  TEMP  47.0 C
