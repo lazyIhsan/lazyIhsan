@@ -1,7 +1,7 @@
 ## lazyIhsan
 
-Rust · C++ · Julia
-EndeavourOS · niri · LazyVim
+Rust · Go · |
+· EndeavourOS · niri · LazyVim
 
 Observant enough to notice most things aren't
 worth commenting on.
